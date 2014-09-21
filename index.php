@@ -15,3 +15,4 @@ dfsdg
 eaf;
 
 $ad = array("fd","fs",false,123);
+$df = "fd";
